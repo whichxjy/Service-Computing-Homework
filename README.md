@@ -12,8 +12,12 @@ Blog: [Go 语言初体验](https://whichxjy.com/a-tour-of-go/)
 
 Code:
 
-- [hello](https://github.com/whichxjy/Service-Computing-Homework/tree/master/hello)
+- [hello](./hello)
 
-- [stringutil](https://github.com/whichxjy/Service-Computing-Homework/tree/master/stringutil)
+- [stringutil](./stringutil)
 
-- [qsort](https://github.com/whichxjy/Service-Computing-Homework/tree/master/qsort)
+- [qsort](./qsort)
+
+## HW 3
+
+- [minheap](./minheap)
