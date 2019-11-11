@@ -31,3 +31,9 @@ Code: [selpg](./selpg)
 ## HW 5
 
 Code: [agenda](./agenda)
+
+## HW 6
+
+Blog: [Golang 中的 Web 应用](https://whichxjy.com/simple-web-application-in-golang/)
+
+Code: [cloudgo](./cloudgo)
