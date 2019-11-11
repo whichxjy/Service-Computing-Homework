@@ -24,7 +24,7 @@ Code: [minheap](./minheap)
 
 ## HW 4
 
-Blog: [用 Go 语言开发命令行工具 selpg](https://whichxjy.com/implement-selpg-in-golang/)
+Blog: [命令行工具 selpg](https://whichxjy.com/implement-selpg-in-golang/)
 
 Code: [selpg](./selpg)
 
