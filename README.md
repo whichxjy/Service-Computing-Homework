@@ -1,4 +1,4 @@
-# Service Computing
+# Service Computing Homework
 
 Homework for Service Computing.
 
@@ -10,13 +10,7 @@ Blog: [搭建简易的私有云](https://whichxjy.com/build-your-own-private-clo
 
 Blog: [Go 语言初体验](https://whichxjy.com/a-tour-of-go/)
 
-Code:
-
-- [hello](./hello)
-
-- [stringutil](./stringutil)
-
-- [qsort](./qsort)
+Code: [hello](./hello) / [stringutil](./stringutil) / [qsort](./qsort)
 
 ## HW 3
 
@@ -37,3 +31,7 @@ Code: [agenda](./agenda)
 Blog: [Golang 中的 Web 应用](https://whichxjy.com/simple-web-application-in-golang/)
 
 Code: [cloudgo](./cloudgo)
+
+## HW 7
+
+Blog: [Docker 实践](https://whichxjy.com/learn-docker/)
